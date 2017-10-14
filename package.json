@@ -1,0 +1,7 @@
+{
+  "name": "heroku-php",
+  "version": "0.1",
+  "main": "index.js",
+  "author": "Andy Skogrand <andy@bletchley.co>",
+  "license": "MIT"
+}
